@@ -1,16 +1,5 @@
-@use "sass:math";
-
 .container {
   display: flex;
-}
-
-article[role="main"] {
-  width: math.div(600px, 960px) * 100%;
-}
-
-aside[role="complementary"] {
-  width: math.div(300px, 960px) * 100%;
-  margin-left: auto;
 }
 
 $font-stack: Helvetica, sans-serif;
@@ -42,12 +31,6 @@ nav {
   background-color: base.$primary-color;
   color: white;
 }
-
-    SCSS
-    Sass
-    CSS
-
-SCSS Syntax
 
 @mixin theme($theme: DarkGray) {
   background: $theme;
