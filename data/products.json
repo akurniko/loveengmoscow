@@ -5,13 +5,13 @@
 		"price": 9.95,
 		"image": "",
 		"description": "Unlimited low, low clouds for one low, low price!",
-		"product_url": "/"
+		"product_url": "/webinar-example"
 	},
 	{
 		"id": "COURSE",
 		"name": "Eng Курс",
 		"price": 100,
-		"image": "/uploads/img-20151009-110451.jpg",
+		"image": "",
 		"description": "Курс подготовки к ЕГЭ",
 		"product_url": "/"
 	}
