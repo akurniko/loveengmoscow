@@ -4,3 +4,19 @@ backend:
 
 media_folder: "static/uploads"
 pubilc_folder: "/images/uploads"
+
+publish_mode: editorial_workflow
+
+site_url: https://romantic-kalam-0cd29f.netlify.app/
+
+collections:
+  - label: "Product"
+    name: product
+    identifier_field: name
+    folder: "_products"
+    fields:
+      - {label: "Id", name: "id", widget: "string"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Price", name: "price", widget: "string"}
+      - {label: "Image", name: "thumbnail", widget: "image"}
+      - {label: "Description", name: "description", widget: "string"}
