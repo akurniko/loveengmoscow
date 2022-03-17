@@ -1,5 +1,5 @@
 ---
-title: 'More_sample'
+title: 'Школа английского языка'
 # The "weight" will determine where this section appears on the "homepage".
 # A bigger weight will place the content more towards the bottom of the page.
 # It's like gravity ;-).
@@ -9,4 +9,5 @@ weight: 5
 header_menu: true
 ---
 
-This is just another section to appear on the homepage.
+Многолетний опыт работы. Индивидуальный подход. Профессиональные преподаватели.
+Подготовка к ОГЭ/ЕГЭ, поступление в ВУЗ, сдача экзамена по английскому языку.
