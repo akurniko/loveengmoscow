@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-media_folder: "static/uploads"
-pubilc_folder: "/images/uploads"
+media_folder: "static/images"
+pubilc_folder: "/images"
 
 publish_mode: editorial_workflow
 
@@ -14,6 +14,7 @@ collections:
     name: product
     identifier_field: name
     folder: "_products"
+    create: true
     fields:
       - {label: "Id", name: "id", widget: "string"}
       - {label: "Name", name: "name", widget: "string"}
