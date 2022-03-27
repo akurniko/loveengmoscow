@@ -1,12 +1,8 @@
 ---
-title: 'Школа английского языка'
-# The "weight" will determine where this section appears on the "homepage".
-# A bigger weight will place the content more towards the bottom of the page.
-# It's like gravity ;-).
+title: Школа английского языка LoveEnglishMoscow
 weight: 5
-# If "header_menu" is true, then a button linking to this section will be placed
-# into the header menu at the top of the homepage.
 header_menu: true
+description: Школа преподавателей с многолетним стажем.
 ---
 
 Многолетний опыт работы. Индивидуальный подход. Профессиональные преподаватели.
